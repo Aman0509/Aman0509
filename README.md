@@ -12,10 +12,16 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 📚 Currently, I am exploring Docker, K8s, Django & Flask.
+- 📚 Currently, I am exploring Golang, Docker, K8s, Django & Flask.
 
 - 📫 You can reach out to me at **amansaxena8055@gmail.com**
 
+&nbsp;
+
+<p align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=Aman0509&theme=great-gatsby&show_icons=true&border_radius=15" width="415" height="195"/> &nbsp; &nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman0509&layout=compact&theme=great-gatsby&show_icons=true&border_radius=15" width="350" height="195" />
+</p>
 &nbsp;
 
 ## 🚀 Languages and Tools:
@@ -41,7 +47,7 @@
 
 &nbsp;
 
-## Connect with me:
+<h2 align="left"> Connect with me </h2>
 <p  align="left">
     <a href="https://www.linkedin.com/in/aman-saxena-1a87a27a/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
     <a href="https://stackoverflow.com/users/12681221/aman"><img src="https://img.icons8.com/color/48/000000/stackoverflow.png"/></a>
