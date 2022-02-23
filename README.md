@@ -6,6 +6,12 @@
 
 &nbsp;
 
+<p align="center">
+    <img src="https://lastfm-recently-played.vercel.app/api?user=Aman8055&count=1&loved=true"/>
+</p>
+
+&nbsp;
+
 ## 👱🏼‍♂️ About Me
 
 - 👾 I love to talk in Python.
