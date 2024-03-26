@@ -22,8 +22,8 @@
 ## 📈 My GitHub Stats
 
 <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=Aman0509&theme=great-gatsby&show_icons=true&border_radius=0&hide_border=true"/> &nbsp; &nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman0509&layout=compact&theme=great-gatsby&show_icons=true&border_radius=0&hide_border=true" width="415" height="195"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Aman0509&theme=great-gatsby&show_icons=true&border_radius=0&hide_border=true" width="415" height="195"/> &nbsp; &nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman0509&layout=compact&theme=great-gatsby&show_icons=true&border_radius=0&hide_border=true" width="350" height="195"/>
 </p>
 
 ## 🚀 Languages
