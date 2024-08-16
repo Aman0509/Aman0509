@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-    <img src="https://lastfm-recently-played.vercel.app/api?user=Aman8055&count=1&loved=true"/>
+    <img src="https://lastfm-recently-played.vercel.app/api?user=Aman8055&count=1&loved=true&show_user=header&footer_style=compact_stats"/>
 </p>
 
 ## 👱🏼‍♂️ About Me
